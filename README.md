@@ -1,2 +1,2 @@
 # DBMerge
-a test of data mining, by pandas groupby
+从VIP-HL获取基本信息与clinvar信息，并需要合并不同证据项内与证据项间不同submitter提交的pmid。
